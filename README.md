@@ -9,7 +9,7 @@
 ![Alt Text](README/Info3.png)
 
 - You can check VPC , EC2 , Lambda , RDS ,ALB ,IAM ,S3 , Route53 ,ACM , CloudFront
-  From this repo
+  From this repo .
 
 ## 1. Replace your AWS SES INFO to .env file with AdminPermissionKey
 
