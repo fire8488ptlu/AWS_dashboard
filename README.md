@@ -6,7 +6,7 @@
 
 ![Alt Text](README/Info2.png)
 
-![Alt Text](README/Info3.png)
+![Alt Text](README/Info4.png)
 
 - You can check VPC , EC2 , Lambda , RDS ,ALB ,IAM ,S3 , Route53 ,ACM , CloudFront
   From this repo .
